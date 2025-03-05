@@ -880,4 +880,22 @@
   <data name="MnLonger.Text" xml:space="preserve">
     <value>Longer</value>
   </data>
+  <data name="MnLongerUserGroup.Text" xml:space="preserve">
+    <value>Grupo de Usuários Longer</value>
+  </data>
+  <data name="MnLongerSupportAndFeedback.Text" xml:space="preserve">
+    <value>Suporte e Feedback Longer</value>
+  </data>
+  <data name="MnLongerWebsite.Text" xml:space="preserve">
+    <value>Site Longer</value>
+  </data>
+  <data name="MnLongerYouTube.Text" xml:space="preserve">
+    <value>Canal no Youtube</value>
+  </data>
+  <data name="MnLongerManuals.Text" xml:space="preserve">
+    <value>Manuais Longer</value>
+  </data>
+  <data name="MnLongerFirmware.Text" xml:space="preserve">
+    <value>Firmware Longer</value>
+  </data>
 </root>
